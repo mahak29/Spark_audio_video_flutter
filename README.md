@@ -2,4 +2,4 @@
 
 ### Here sharing glimpse of the ***FLUTTER*** App
 
-<img src="/ScreenShots/1.png" height="300">
+<img src="/ScreenShots/1.png" height="450">
